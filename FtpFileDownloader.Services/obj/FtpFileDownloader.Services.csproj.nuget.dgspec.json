@@ -1,0 +1,262 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Services\\FtpFileDownloader.Services.csproj": {}
+  },
+  "projects": {
+    "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Common\\FtpFileDownloader.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Common\\FtpFileDownloader.Common.csproj",
+        "projectName": "FtpFileDownloader.Common",
+        "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Common\\FtpFileDownloader.Common.csproj",
+        "packagesPath": "C:\\Users\\mikita.yakhant\\.nuget\\packages\\",
+        "outputPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mikita.yakhant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Data\\FtpFileDownloader.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Data\\FtpFileDownloader.Data.csproj",
+        "projectName": "FtpFileDownloader.Data",
+        "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Data\\FtpFileDownloader.Data.csproj",
+        "packagesPath": "C:\\Users\\mikita.yakhant\\.nuget\\packages\\",
+        "outputPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mikita.yakhant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Common\\FtpFileDownloader.Common.csproj": {
+                "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Common\\FtpFileDownloader.Common.csproj"
+              },
+              "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj": {
+                "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj",
+        "projectName": "FtpFileDownloader.Interfaces",
+        "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\mikita.yakhant\\.nuget\\packages\\",
+        "outputPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mikita.yakhant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Services\\FtpFileDownloader.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Services\\FtpFileDownloader.Services.csproj",
+        "projectName": "FtpFileDownloader.Services",
+        "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Services\\FtpFileDownloader.Services.csproj",
+        "packagesPath": "C:\\Users\\mikita.yakhant\\.nuget\\packages\\",
+        "outputPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mikita.yakhant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 19.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 19.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Data\\FtpFileDownloader.Data.csproj": {
+                "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Data\\FtpFileDownloader.Data.csproj"
+              },
+              "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj": {
+                "projectPath": "D:\\VSProjects\\FtpFileDownloader\\FtpFileDownloader.Interfaces\\FtpFileDownloader.Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "ChilkatDnCore": {
+              "target": "Package",
+              "version": "[9.5.0.82, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

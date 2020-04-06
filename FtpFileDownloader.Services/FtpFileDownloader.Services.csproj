@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>FtpFileDownloaderServices</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FtpFileDownloader.Data\FtpFileDownloader.Data.csproj" />
+      <ProjectReference Include="..\FtpFileDownloader.Interfaces\FtpFileDownloader.Interfaces.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="ChilkatDnCore" Version="9.5.0.82" />
+    </ItemGroup>
+
+</Project>

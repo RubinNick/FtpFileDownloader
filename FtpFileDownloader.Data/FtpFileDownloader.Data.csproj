@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>FtpFileDownloaderData</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\FtpFileDownloader.Common\FtpFileDownloader.Common.csproj" />
+      <ProjectReference Include="..\FtpFileDownloader.Interfaces\FtpFileDownloader.Interfaces.csproj" />
+    </ItemGroup>
+
+</Project>

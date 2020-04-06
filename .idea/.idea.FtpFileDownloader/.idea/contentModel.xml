@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mikita.yakhant\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mikita.yakhant\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_FtpFileDownloader.1154413375.00" t="ExcludeRecursive" />
+    <e p="D:\VSProjects\FtpFileDownloader" t="IncludeFlat">
+      <e p="FtpFileDownloader.Common" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FtpFileDownloader.Common.csproj" t="IncludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="BaseModel.cs" t="Include" />
+          <e p="FileModel.cs" t="Include" />
+          <e p="TwofishConfigModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FtpFileDownloader.Common.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="FtpFileDownloader.Console" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FtpFileDownloader.Console.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FtpFileDownloader.Console.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="FtpFileDownloader.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="FilesAppContext.cs" t="Include" />
+          <e p="IFilesAppContext.cs" t="Include" />
+        </e>
+        <e p="FtpFileDownloader.Data.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FtpFileDownloader.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositories" t="Include">
+          <e p="IRepository.cs" t="Include" />
+          <e p="Repository.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FtpFileDownloader.Interfaces" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Data" t="Include" />
+        <e p="FtpFileDownloader.Interfaces.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="ICryptoHelper.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FtpFileDownloader.Interfaces.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="IFileUploaderService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FtpFileDownloader.Services" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FtpFileDownloader.Services.csproj" t="IncludeRecursive" />
+        <e p="Helpers" t="Include">
+          <e p="CryptoHelper.cs" t="Include" />
+          <e p="DIRegistryConfig.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FtpFileDownloader.Services.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Services" t="Include">
+          <e p="FileUploaderService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="FtpFileDownloader.sln" t="IncludeFlat" />
+      <e p="FtpFileDownloaderUtils" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FtpClientUtil.cs" t="Include" />
+        <e p="FtpFileDownloaderUtils.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="FtpFileDownloaderUtils.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

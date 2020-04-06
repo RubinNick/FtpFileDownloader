@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpFileDownloader.Common", "FtpFileDownloader.Common\FtpFileDownloader.Common.csproj", "{8F0CBBA8-D37B-42DF-B6C8-422177D6B203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpFileDownloader.Data", "FtpFileDownloader.Data\FtpFileDownloader.Data.csproj", "{5E892722-B32C-47D7-B13D-9405581EE644}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpFileDownloader.Interfaces", "FtpFileDownloader.Interfaces\FtpFileDownloader.Interfaces.csproj", "{BAA83CEB-5A0C-46C0-BF19-3AFB6BCD3788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpFileDownloader.Services", "FtpFileDownloader.Services\FtpFileDownloader.Services.csproj", "{B7DC7F3F-DE37-4A83-A3C9-0CB0DF25CA29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpFileDownloader.Console", "FtpFileDownloader.Console\FtpFileDownloader.Console.csproj", "{12FC03BE-2415-48D8-83A2-25E860DD5E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FtpFileDownloaderUtils", "FtpFileDownloaderUtils\FtpFileDownloaderUtils.csproj", "{EBED79C6-D02F-4F9A-8034-7CAC8BFB7C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0CBBA8-D37B-42DF-B6C8-422177D6B203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0CBBA8-D37B-42DF-B6C8-422177D6B203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0CBBA8-D37B-42DF-B6C8-422177D6B203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0CBBA8-D37B-42DF-B6C8-422177D6B203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E892722-B32C-47D7-B13D-9405581EE644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E892722-B32C-47D7-B13D-9405581EE644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E892722-B32C-47D7-B13D-9405581EE644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E892722-B32C-47D7-B13D-9405581EE644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA83CEB-5A0C-46C0-BF19-3AFB6BCD3788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA83CEB-5A0C-46C0-BF19-3AFB6BCD3788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA83CEB-5A0C-46C0-BF19-3AFB6BCD3788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA83CEB-5A0C-46C0-BF19-3AFB6BCD3788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DC7F3F-DE37-4A83-A3C9-0CB0DF25CA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DC7F3F-DE37-4A83-A3C9-0CB0DF25CA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DC7F3F-DE37-4A83-A3C9-0CB0DF25CA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DC7F3F-DE37-4A83-A3C9-0CB0DF25CA29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12FC03BE-2415-48D8-83A2-25E860DD5E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12FC03BE-2415-48D8-83A2-25E860DD5E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12FC03BE-2415-48D8-83A2-25E860DD5E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12FC03BE-2415-48D8-83A2-25E860DD5E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBED79C6-D02F-4F9A-8034-7CAC8BFB7C46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBED79C6-D02F-4F9A-8034-7CAC8BFB7C46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBED79C6-D02F-4F9A-8034-7CAC8BFB7C46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBED79C6-D02F-4F9A-8034-7CAC8BFB7C46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A248B35-C407-40A8-A371-1493C88AABDD}
+	EndGlobalSection
+EndGlobal

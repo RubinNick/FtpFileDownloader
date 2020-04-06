@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="ENABLE_SUITABLE_CONFIGURATION_CACHING" value="true" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <option name="showStatusBarWidget" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a89e2a8f-ff92-42f2-a823-4d5c6494b28b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/135/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98B5DB6C-037D-45CD-97DD-A7EB43DF4CA7/03/85fc83bc/FtpProgress.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B0560453-ECC4-498E-9C55-52254B65E978/11/SyncTextReader.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/BA/Progress.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B0560453-ECC4-498E-9C55-52254B65E978/4/Console.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Data/Context/IFilesAppContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Data/Context/FilesAppContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Data/Repositories/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Data/Repositories/Repository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Services/Helpers/DIRegistryConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Interfaces/Helpers/ICryptoHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Console/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/38/String.Manipulation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/B0560453-ECC4-498E-9C55-52254B65E978/7/ConsolePal.Windows.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloaderUtils/FtpClientUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Interfaces/Services/IFileUploaderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/1E0/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/DB9CEB1E-F6C3-448D-8D4A-C9F8963779FB/143/WaitHandle.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Services/Services/FileUploaderService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Services/Helpers/CryptoHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Common/Models/BaseModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Common/Models/FileModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FtpFileDownloader.Common/Models/TwofishConfigModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/98B5DB6C-037D-45CD-97DD-A7EB43DF4CA7/aa/ce9d5e18/FtpClient.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FtpFileDownloaderCommon/Models/BaseModel.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderCommon/Models/FileModel.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderCommon/Models/TwofishConfigModel.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderData/Program.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderData/Context/IFilesAppContext.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderData/Context/FilesAppContext.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderData/Repositories/IRepository.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderData/Repositories/Repository.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderInterfaces/Class1.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderServices/Class1.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Interfaces/Services/IFileUploaderService.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Services/Services/FileUploaderService.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Interfaces/Helpers/ICryptoHelper.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Services/Helpers/CryptoHelper.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Console/Main.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderUtils/Class1.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderUtils/FtpClient.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderUtils/SelectPathDialog.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Services/Helpers/DIRegistryCinfig.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloaderUtils/FtpClientUtil.cs" />
+        <option value="$PROJECT_DIR$/FtpFileDownloader.Console/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YQsKLdbZK4rBbaPjUvM2IrxCWE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected=".NET Project.FtpFileDownloader.Console">
+    <configuration name="FtpFileDownloaderData" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FtpFileDownloader.Data/FtpFileDownloader.Data.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FtpFileDownloader.Console" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FtpFileDownloader.Console/bin/Debug/netcoreapp3.1/FtpFileDownloader.Console.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FtpFileDownloader.Console/bin/Debug/netcoreapp3.1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FtpFileDownloader.Console/FtpFileDownloader.Console.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.1" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.FtpFileDownloader.Console" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a89e2a8f-ff92-42f2-a823-4d5c6494b28b" name="Default Changelist" comment="" />
+      <created>1582886088532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582886088532</updated>
+      <workItem from="1582886092800" duration="6882000" />
+      <workItem from="1583134227457" duration="797000" />
+      <workItem from="1583140550241" duration="82000" />
+      <workItem from="1583140687807" duration="124000" />
+      <workItem from="1583146465056" duration="4551000" />
+      <workItem from="1583835768530" duration="20512000" />
+      <workItem from="1585547642163" duration="22721000" />
+      <workItem from="1585643710545" duration="74591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583135682178">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="257" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583135682178" />
+    <state x="715" y="223" key="#xdebugger.evaluate" timestamp="1585832566275">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="223" key="#xdebugger.evaluate/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585832566275" />
+    <state x="718" y="400" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1583146577945">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="400" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1583146577945" />
+    <state width="473" height="466" key="DebuggerActiveHint" timestamp="1585833662291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="473" height="466" key="DebuggerActiveHint/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585833662291" />
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922056960" />
+    <state width="1493" height="348" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.0.center" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922056960" />
+    <state width="1493" height="348" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.0.left" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922056960" />
+    <state width="1493" height="348" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922056960" />
+    <state width="1493" height="348" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.1.bottom" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922050958" />
+    <state width="1493" height="348" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.1.center" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922050958" />
+    <state width="1493" height="348" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.1.left" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922050958" />
+    <state width="1493" height="348" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.1.right" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922050958" />
+    <state width="1493" height="348" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.2.bottom" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047334" />
+    <state width="1493" height="348" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.2.center" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047334" />
+    <state width="1493" height="348" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.2.left" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047334" />
+    <state width="1493" height="348" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.2.right" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.2.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047334" />
+    <state width="1493" height="348" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.3.bottom" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.3.center" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.3.left" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.3.right" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.3.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.4.bottom" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.4.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.4.center" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.4.center/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.4.left" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.4.left/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state width="1493" height="348" key="GridCell.Tab.4.right" timestamp="1586156206989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.4.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585922047335" />
+    <state width="1493" height="348" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1586156206989" />
+    <state x="552" y="253" key="Rider.ProjectTemplateDialog.Size" timestamp="1584449225028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Rider.ProjectTemplateDialog.Size/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1584449225028" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1585912757842">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585912757842" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/FtpFileDownloaderUtils/FtpClientUtil.cs</url>
+          <line>101</line>
+          <properties documentPath="$PROJECT_DIR$/FtpFileDownloaderUtils/FtpClientUtil.cs" initialLine="118">
+            <startOffsets>
+              <option value="3826" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3858" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

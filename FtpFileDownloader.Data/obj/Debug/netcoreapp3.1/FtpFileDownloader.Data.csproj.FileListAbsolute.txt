@@ -1,0 +1,14 @@
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Data.deps.json
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Data.dll
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Data.pdb
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Common.dll
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.dll
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Common.pdb
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\bin\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.pdb
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.csprojAssemblyReference.cache
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.AssemblyInfoInputs.cache
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.AssemblyInfo.cs
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.csproj.CopyComplete
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.dll
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.pdb
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Data\obj\Debug\netcoreapp3.1\FtpFileDownloader.Data.csproj.CoreCompileInputs.cache

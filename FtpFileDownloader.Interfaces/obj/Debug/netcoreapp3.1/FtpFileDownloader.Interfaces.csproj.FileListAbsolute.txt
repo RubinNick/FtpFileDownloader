@@ -1,0 +1,9 @@
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\bin\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.deps.json
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\bin\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.dll
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\bin\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.pdb
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\obj\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.csprojAssemblyReference.cache
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\obj\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.AssemblyInfoInputs.cache
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\obj\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.AssemblyInfo.cs
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\obj\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.dll
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\obj\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.pdb
+D:\VSProjects\FtpFileDownloader\FtpFileDownloader.Interfaces\obj\Debug\netcoreapp3.1\FtpFileDownloader.Interfaces.csproj.CoreCompileInputs.cache
